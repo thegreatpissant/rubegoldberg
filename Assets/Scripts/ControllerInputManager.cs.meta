@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b1bcb703dbb58c9468fa1f90f708257b
+timeCreated: 1504140630
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - gameManager: {instanceID: 0}
+  - cm: {instanceID: 0}
+  - enabledTeleportMaterial: {fileID: 2100000, guid: ec3dc73cf20a842438065d10e72e1b14,
+      type: 2}
+  - disabledTeleportMaterial: {instanceID: 0}
+  - TeleportMarker: {instanceID: 0}
+  - objectMenuController: {instanceID: 0}
+  - objectMenuSpawnPoint: {instanceID: 0}
+  - padHint: {instanceID: 0}
+  - triggerHint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
